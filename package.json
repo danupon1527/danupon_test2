@@ -1,0 +1,29 @@
+{
+  "name": "danupon_test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danupon1527/danupon_test2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danupon1527/danupon_test2/issues"
+  },
+  "homepage": "https://github.com/danupon1527/danupon_test2#readme",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^4.19.2",
+    "mysql2": "^3.10.3",
+    "pdfkit": "^0.15.0",
+    "random-words": "^2.0.1"
+  }
+}
